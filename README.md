@@ -52,9 +52,11 @@ I'm a passionate full-stack developer with expertise in backend development usin
 - High-performance computing with CUDA/OpenCL
 
 ## 📫 How to reach me
-- GitHub: [@mehdi-oraki](https://github.com/mehdi-oraki)
-- LinkedIn: [Mehdi Oraki](https://www.linkedin.com/in/mehdi-oraki-52301969)
-- Feel free to reach out for collaboration opportunities!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mehdi-oraki)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/mehdi-oraki-52301969)
+
+Feel free to reach out for collaboration opportunities!
 
 ## ⚡ Fun fact
 I enjoy working across the entire technology stack, from low-level system programming to modern web development frameworks!
