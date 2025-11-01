@@ -53,6 +53,7 @@ I'm a passionate full-stack developer with expertise in backend development usin
 
 ## 📫 How to reach me
 - GitHub: [@mehdi-oraki](https://github.com/mehdi-oraki)
+- LinkedIn: [Mehdi Oraki](https://www.linkedin.com/in/mehdi-oraki-52301969)
 - Feel free to reach out for collaboration opportunities!
 
 ## ⚡ Fun fact
