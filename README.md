@@ -14,7 +14,7 @@ I'm a passionate full-stack developer with expertise in backend development usin
 - **Programming Languages**: Python, JavaScript, C++, Fortran
 - **Development Tools**: Git, Conda, Cuda, OpenCL, Linux
 - **System Programming**: Linux environments, Performance optimization
-- **Ai Agentic**: Linux environments, LlamaIndex , Lang Graph
+- **Ai Agentic**: Linux environments, LlamaIndex , Lang Graph , Lang Chain
 
 ---
 
