@@ -38,7 +38,7 @@ I'm a passionate full-stack developer with expertise in backend development usin
 - Full-stack web applications with Django and Vue.js
 - High-performance computing solutions
 - Cross-platform development projects
-- Advanced LangGraph-LlamaIndex development projects
+- Advanced LangChain-LangGraph-LlamaIndex development projects
 
 ## 🌱 Currently Learning
 - Advanced Django patterns and best practices
