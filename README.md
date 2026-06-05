@@ -39,11 +39,13 @@ I'm a passionate full-stack developer with expertise in backend development usin
 - High-performance computing solutions
 - Cross-platform development projects
 - Advanced LangChain-LangGraph-LlamaIndex development projects
+- Developing an AI-orchestrated framework for NFT smart contract evaluation, combining LLM-based analysis with rule-based vulnerability detection
 
 ## 🌱 Currently Learning
 - Advanced Django patterns and best practices
 - Modern Vue.js ecosystem and composition API
 - Cloud computing and deployment strategies
+- Deepening expertise in smart contract security, adversarial blockchain behavior, and autonomous AI agents for security automation
 
 ## 💬 Ask me about
 - Django backend development
